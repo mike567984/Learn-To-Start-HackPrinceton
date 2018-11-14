@@ -1,0 +1,49 @@
+#myHeader {
+    background-color: #F4EB85;
+    text-align: center;
+}
+
+body {
+    background-color: #C3EDED;
+}
+
+.center {
+    margin: 0 auto;
+    width: 20%;
+    padding: 10px;
+}
+
+* {
+    font-family: Georgia, serif;
+}
+
+#main-header {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+#main-footer {
+    text-align: center;
+    font-size: 18px;
+}
+
+#main-section {
+    text-align: center;
+    font-size: 18px;
+}
+
+#pbody {
+    text-align: center;
+    font-size: 18px;
+}
+
+#threesimp {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+}
